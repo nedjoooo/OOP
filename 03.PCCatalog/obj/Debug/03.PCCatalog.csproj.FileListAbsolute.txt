@@ -1,6 +1,0 @@
-E:\OOP\01.Defining-Classes\03.PCCatalog\bin\Debug\03.PCCatalog.exe.config
-E:\OOP\01.Defining-Classes\03.PCCatalog\bin\Debug\03.PCCatalog.exe
-E:\OOP\01.Defining-Classes\03.PCCatalog\bin\Debug\03.PCCatalog.pdb
-E:\OOP\01.Defining-Classes\03.PCCatalog\obj\Debug\03.PCCatalog.csprojResolveAssemblyReference.cache
-E:\OOP\01.Defining-Classes\03.PCCatalog\obj\Debug\03.PCCatalog.exe
-E:\OOP\01.Defining-Classes\03.PCCatalog\obj\Debug\03.PCCatalog.pdb
