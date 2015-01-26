@@ -1,0 +1,6 @@
+E:\OOP\01.Defining-Classes\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+E:\OOP\01.Defining-Classes\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+E:\OOP\01.Defining-Classes\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+E:\OOP\01.Defining-Classes\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+E:\OOP\01.Defining-Classes\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+E:\OOP\01.Defining-Classes\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
