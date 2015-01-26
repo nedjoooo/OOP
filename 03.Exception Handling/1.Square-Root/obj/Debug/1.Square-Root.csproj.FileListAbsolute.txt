@@ -1,0 +1,6 @@
+E:\OOP\03.Exception Handling\1.Square-Root\bin\Debug\1.Square-Root.exe.config
+E:\OOP\03.Exception Handling\1.Square-Root\bin\Debug\1.Square-Root.exe
+E:\OOP\03.Exception Handling\1.Square-Root\bin\Debug\1.Square-Root.pdb
+E:\OOP\03.Exception Handling\1.Square-Root\obj\Debug\1.Square-Root.csprojResolveAssemblyReference.cache
+E:\OOP\03.Exception Handling\1.Square-Root\obj\Debug\1.Square-Root.exe
+E:\OOP\03.Exception Handling\1.Square-Root\obj\Debug\1.Square-Root.pdb

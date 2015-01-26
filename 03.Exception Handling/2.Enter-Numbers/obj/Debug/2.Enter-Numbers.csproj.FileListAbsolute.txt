@@ -1,0 +1,6 @@
+E:\OOP\03.Exception Handling\2.Enter-Numbers\bin\Debug\2.Enter-Numbers.exe.config
+E:\OOP\03.Exception Handling\2.Enter-Numbers\bin\Debug\2.Enter-Numbers.exe
+E:\OOP\03.Exception Handling\2.Enter-Numbers\bin\Debug\2.Enter-Numbers.pdb
+E:\OOP\03.Exception Handling\2.Enter-Numbers\obj\Debug\2.Enter-Numbers.csprojResolveAssemblyReference.cache
+E:\OOP\03.Exception Handling\2.Enter-Numbers\obj\Debug\2.Enter-Numbers.exe
+E:\OOP\03.Exception Handling\2.Enter-Numbers\obj\Debug\2.Enter-Numbers.pdb
