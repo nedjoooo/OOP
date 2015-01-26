@@ -1,0 +1,10 @@
+E:\OOP\02.StaticMembers\3.Paths\bin\Debug\3.Paths.exe.config
+E:\OOP\02.StaticMembers\3.Paths\bin\Debug\3.Paths.exe
+E:\OOP\02.StaticMembers\3.Paths\bin\Debug\3.Paths.pdb
+E:\OOP\02.StaticMembers\3.Paths\bin\Debug\1.Point3D.exe
+E:\OOP\02.StaticMembers\3.Paths\bin\Debug\2.DistanceCalculator.exe
+E:\OOP\02.StaticMembers\3.Paths\bin\Debug\1.Point3D.pdb
+E:\OOP\02.StaticMembers\3.Paths\bin\Debug\2.DistanceCalculator.pdb
+E:\OOP\02.StaticMembers\3.Paths\obj\Debug\3.Paths.csprojResolveAssemblyReference.cache
+E:\OOP\02.StaticMembers\3.Paths\obj\Debug\3.Paths.exe
+E:\OOP\02.StaticMembers\3.Paths\obj\Debug\3.Paths.pdb

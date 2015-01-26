@@ -1,0 +1,9 @@
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\bin\Debug\4.HTML-Dispatcher.exe.config
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\bin\Debug\4.HTML-Dispatcher.exe
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\bin\Debug\4.HTML-Dispatcher.pdb
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\obj\Debug\4.HTML-Dispatcher.csprojResolveAssemblyReference.cache
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\obj\Debug\4.HTML-Dispatcher.exe
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\obj\Debug\4.HTML-Dispatcher.pdb
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\obj\Debug\Interop.VsWebContextLib.dll
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\obj\Debug\Interop.WinHttp.dll
+E:\OOP\02.StaticMembers\4.HTML-Dispatcher\obj\Debug\4.HTML-Dispatcher.csproj.ResolveComReference.cache
