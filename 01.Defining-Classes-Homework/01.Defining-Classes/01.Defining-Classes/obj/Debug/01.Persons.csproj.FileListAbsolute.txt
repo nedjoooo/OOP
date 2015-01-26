@@ -1,6 +1,0 @@
-E:\OOP\01.Defining-Classes\01.Defining-Classes\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
-E:\OOP\01.Defining-Classes\01.Defining-Classes\bin\Debug\01.Defining-Classes.exe.config
-E:\OOP\01.Defining-Classes\01.Defining-Classes\bin\Debug\01.Defining-Classes.exe
-E:\OOP\01.Defining-Classes\01.Defining-Classes\bin\Debug\01.Defining-Classes.pdb
-E:\OOP\01.Defining-Classes\01.Defining-Classes\obj\Debug\01.Defining-Classes.exe
-E:\OOP\01.Defining-Classes\01.Defining-Classes\obj\Debug\01.Defining-Classes.pdb
