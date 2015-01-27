@@ -11,6 +11,7 @@ namespace _2.Enter_Numbers
             int endNumber = 100;
             int[] numbers = new int[10];
             int count = 0;
+            int greatingByValue = count;
             while(count < 10)
             {               
                 try
@@ -20,8 +21,17 @@ namespace _2.Enter_Numbers
                     {
                         throw new ArgumentOutOfRangeException();
                     }
+                    if(number<=greatingByValue)
+                    {
+                        throw new IndexOutOfRangeException();
+                    }
                     numbers[count++] = number;
+                    greatingByValue = number;
                 }
+                catch (IndexOutOfRangeException)
+                {
+                    Console.WriteLine("The number must be greater than by last entered: " + greatingByValue);
+                }   
                 catch (ArgumentOutOfRangeException)
                 {
                     Console.WriteLine("The number must be greater than zero and less or equal than 100!");
